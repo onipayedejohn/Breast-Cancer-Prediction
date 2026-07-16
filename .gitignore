@@ -1,0 +1,22 @@
+# Data (download separately — see README)
+data/*.csv
+data/*.xlsx
+data/*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Colab
+.config/
